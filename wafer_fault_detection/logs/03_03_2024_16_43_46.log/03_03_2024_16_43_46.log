@@ -1,0 +1,8 @@
+[ 2024-03-03 16:43:49,327 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-03 16:43:49,335 ] 187 werkzeug - INFO -  * Debugger PIN: 121-868-598
+[ 2024-03-03 16:43:54,215 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/Mar/2024 16:43:54] "GET /predict HTTP/1.1" 200 -
+[ 2024-03-03 16:43:54,239 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/Mar/2024 16:43:54] "GET /static/css/style.css HTTP/1.1" 200 -
+[ 2024-03-03 16:43:54,243 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/Mar/2024 16:43:54] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[ 2024-03-03 16:44:11,024 ] 112 root - INFO - predictions completed. 
+[ 2024-03-03 16:44:11,061 ] 46 root - INFO - prediction completed. Downloading prediction file.
+[ 2024-03-03 16:44:11,062 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/Mar/2024 16:44:11] "POST /predict HTTP/1.1" 200 -

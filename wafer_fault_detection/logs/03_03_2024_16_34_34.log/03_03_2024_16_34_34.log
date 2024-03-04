@@ -1,0 +1,7 @@
+[ 2024-03-03 16:34:37,581 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-03 16:34:37,591 ] 187 werkzeug - INFO -  * Debugger PIN: 121-868-598
+[ 2024-03-03 16:34:44,781 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/Mar/2024 16:34:44] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2024-03-03 16:36:22,929 ] 112 root - INFO - predictions completed. 
+[ 2024-03-03 16:36:22,930 ] 45 root - INFO - prediction completed. Downloading prediction file.
+[ 2024-03-03 16:36:22,932 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/Mar/2024 16:36:22] "POST /predict HTTP/1.1" 200 -
+[ 2024-03-03 16:37:10,482 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\KALVAMSI\\Downloads\\wafer_fault_detection\\wafer_fault_detection\\app.py', reloading

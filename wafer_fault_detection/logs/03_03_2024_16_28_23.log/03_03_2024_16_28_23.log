@@ -1,0 +1,3 @@
+[ 2024-03-03 16:28:26,369 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-03 16:28:26,378 ] 187 werkzeug - INFO -  * Debugger PIN: 121-868-598
+[ 2024-03-03 16:28:36,213 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\KALVAMSI\\Downloads\\wafer_fault_detection\\wafer_fault_detection\\app.py', reloading

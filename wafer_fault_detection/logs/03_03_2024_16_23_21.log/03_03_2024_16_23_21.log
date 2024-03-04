@@ -1,0 +1,8 @@
+[ 2024-03-03 16:23:23,672 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-03 16:23:23,685 ] 187 werkzeug - INFO -  * Debugger PIN: 121-868-598
+[ 2024-03-03 16:23:29,847 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/Mar/2024 16:23:29] "[35m[1mGET /predict HTTP/1.1[0m" 500 -
+[ 2024-03-03 16:23:29,869 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/Mar/2024 16:23:29] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-03-03 16:23:29,881 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/Mar/2024 16:23:29] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-03-03 16:23:29,930 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/Mar/2024 16:23:29] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-03-03 16:23:29,955 ] 187 werkzeug - INFO - 127.0.0.1 - - [03/Mar/2024 16:23:29] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-03-03 16:24:32,037 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\KALVAMSI\\Downloads\\wafer_fault_detection\\wafer_fault_detection\\app.py', reloading
